@@ -1,0 +1,14 @@
+D:\практика\tema4\tema71\bin\Debug\net8.0\tema71.exe
+D:\практика\tema4\tema71\bin\Debug\net8.0\tema71.deps.json
+D:\практика\tema4\tema71\bin\Debug\net8.0\tema71.runtimeconfig.json
+D:\практика\tema4\tema71\bin\Debug\net8.0\tema71.dll
+D:\практика\tema4\tema71\bin\Debug\net8.0\tema71.pdb
+D:\практика\tema4\tema71\obj\Debug\net8.0\tema71.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика\tema4\tema71\obj\Debug\net8.0\tema71.AssemblyInfoInputs.cache
+D:\практика\tema4\tema71\obj\Debug\net8.0\tema71.AssemblyInfo.cs
+D:\практика\tema4\tema71\obj\Debug\net8.0\tema71.csproj.CoreCompileInputs.cache
+D:\практика\tema4\tema71\obj\Debug\net8.0\tema71.dll
+D:\практика\tema4\tema71\obj\Debug\net8.0\refint\tema71.dll
+D:\практика\tema4\tema71\obj\Debug\net8.0\tema71.pdb
+D:\практика\tema4\tema71\obj\Debug\net8.0\tema71.genruntimeconfig.cache
+D:\практика\tema4\tema71\obj\Debug\net8.0\ref\tema71.dll
